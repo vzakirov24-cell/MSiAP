@@ -4,4 +4,7 @@ All Game Version's
 Version's (Speedrun-mode)
 -
 v0._00_01 (start development)
+
 v0._01_01 (current version)
+available in itch.io
+https://q-qha.itch.io/msiap
