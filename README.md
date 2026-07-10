@@ -9,6 +9,8 @@ thank for you reading
 i make this github page faster, bcs need archive tool for this.  
 i no have motive to pay to me for a old'est version you can take it this free.  
 
+* [View Release Page](https://github.com/vzakirov24-cell/MSiAP/releases/tag/version's)
+
 Version's (Speedrun-mode)
 -
 v0._00_01 (start development)
