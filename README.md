@@ -1,5 +1,13 @@
 # MSiAP
 All Game Version's
+Current Index for version's game, his can changed.
+v0... - current finished this game or not? [v0 or v1] where 0 - not, 1 - yes.
+_00... - Early Access Progress Bar to Version Realese on named Early Version, for Playgrouth this game.
+_00 - Demo SpeedRun Mod - version.
+
+thank for you reading
+i make this github page faster, bcs need archive tool for this.
+i no have motive to pay to me for a old'est version you can take it this free.
 
 Version's (Speedrun-mode)
 -
