@@ -18,4 +18,4 @@ v0._00_01 (start development)
 v0._01_01  
 
 v0._01_01_02 (current version, experimental)
-available on [itch.io](https://itch.io)
+available on [itch.io](https://itch.io)  
